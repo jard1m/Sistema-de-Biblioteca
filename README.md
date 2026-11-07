@@ -6,13 +6,18 @@ Trabalho da disciplina de Introdução à Programação em Python, curso de Ciê
 
 - Cadastro de livros
 - Registro de empréstimos e devoluções
-- Busca de livros por titulo
+- Busca de livros por título
 
 ## Como usar
 
-Necessário ter Python instalado e atualizado no sistema do computador.
+Necessário ter Python 3 instalado.
 
-## Autores
+Rodar:
+```
+python main.py
+```
 
-Carolina Jardim Ribeiro
-Luiza Mota
+## Autoras
+
+- Carolina Jardim Ribeiro
+- Luiza da Motta de Lima
